@@ -12,4 +12,4 @@ To audit, cleanse, and optimize the Assembly’s data environment, ensuring read
 By shifting from reactive data management to a proactive governance framework, the Assembly can now leverage its data as a reliable asset rather than a liability. These improvements not only satisfy immediate compliance requirements but create a scalable foundation for future digital transformation initiatives.
 
 ---
-*For a detailed breakdown of methodology and specific anomaly resolution, refer to the accompanying `deliverable-01` report.*
+*For a detailed breakdown of methodology and specific anomaly resolution, refer to the accompanying [deliverable-01](https://github.com/jbraun17-commits/LA262719-Senior-Data-Strategist-Assignment/blob/cd3cca61046d89933dd554fac0af85f840dae38f/output/deliverable-01-cleaned-data-and-risk-review.md) report.*
